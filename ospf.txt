@@ -1,0 +1,3 @@
+Routing Protocol: OSPF
+Area: 0.0.0.0
+Router ID: 1.1.1.1
